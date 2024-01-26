@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [0.2.3] - 2024-01-26
+
+* Made LaTeX syntax optionally escapeable with a flag.
+
 ## [0.2.2] - 2017-04-05
 
 * Revise latex string escape functionality to not try to escape objects that are not Python strings.
